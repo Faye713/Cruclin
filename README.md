@@ -7,5 +7,6 @@
 <p>The host is a girl from Beijing, China with an objective to improve herself.</p>
 <p>You can just call her Faye.</p>
 <p>Tell me what you want to know about Faye.</p>
+<img src="path/to/your-image.jpg" alt="This is Faye">
 </body>
 </html>
