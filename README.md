@@ -8,6 +8,5 @@
 <p>You can just call me Faye.</p>
 <p>Tell me what you want to know about me.</p>
 <img src="Image-1.jpg" alt="This is me.">
-
 </body>
 </html>
