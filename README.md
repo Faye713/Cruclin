@@ -1,5 +1,4 @@
 # Cruclin
-<!DOCTYPE html>
 <html>
 <body>
 <p>It's nice to see you all.</p>
@@ -8,5 +7,7 @@
 <p>You can just call her Faye.</p>
 <p>Tell me what you want to know about Faye.</p>
 <img src="Image-1.jpg" alt="This is Faye">
+
+[Ask a question or leave a comment](https://github.com/YourUsername/YourRepo/discussions)
 </body>
 </html>
